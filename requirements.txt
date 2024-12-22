@@ -1,0 +1,8 @@
+streamlit 
+pandas
+seaborn
+requests
+streamlit_option_menu
+plotly.express
+google-generativeai
+python-dotenv

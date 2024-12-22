@@ -1,0 +1,4 @@
+1.etape: cd lien path du projet
+2.crée variable environnement venv python 
+3.installation les bibliothèques dans le projet pip install -r requirements.txt  et ainsi les bibliothèques 
+4.finalement l'exécution du l'application " streamlit run app.py "
